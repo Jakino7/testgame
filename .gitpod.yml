@@ -1,6 +1,10 @@
 ports:
   - port: 3000
-    onOpen: notify
+    onOpen: open-browser
+
+  - port: 8080
+    onOpen: open-preview 
+
 tasks:
   - command: python3 -m http.server 8080
     name: webserver
