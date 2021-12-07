@@ -88,14 +88,14 @@ var imgA=0;
 var imgB=0;
 var imgC=0;
 
-function preload() {
-    // @ts-ignore
-    imgA = loadImage ('./afbeeldingen/ufo.gif');
-    // @ts-ignore
-    imgB = loadImage ('./afbeeldingen/missile.png');
-    // @ts-ignore
-    imgC = loadImage ('./afbeeldingen/galaxy.png');
-}
+// function preload() {
+//     // @ts-ignore
+//     imgA = loadImage ('./afbeeldingen/ufo.gif');
+//     // @ts-ignore
+//     imgB = loadImage ('./afbeeldingen/missile.png');
+//     // @ts-ignore
+//     imgC = loadImage ('./afbeeldingen/galaxy.png');
+// }
 
 
 
